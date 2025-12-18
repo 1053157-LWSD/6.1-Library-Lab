@@ -8,7 +8,7 @@ If the file does not exist, handle the error by informing the user and ask them 
 file name until a valid file name is provided. *Remember to add any exceptions.
 Precondition: Assume user always adds file type at end of file name.
 
-    Example Ouput Scenario:
+    Example Output Scenario:
 
 Welcome to the Library!
 Type the file name of the book you want to read: notHere.txt
